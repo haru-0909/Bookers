@@ -82,3 +82,16 @@ a:-webkit-any-link {
     cursor: pointer;
     text-decoration: underline;
 }
+
+h2 {
+  margin: 20px 0;
+}
+
+.field {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.create {
+  display: block;
+}
